@@ -154,7 +154,7 @@ El proyecto de monitoreo de sensores con Zabbix y Arduino constituyó un ejercic
 ## Anexos
 
 ### Anexo A: Diagrama de conexión de sensores
-
+![D:\proyectozabbixdiagrama](diagrama)
 Obtenido de: https://github.com/interlegis/Arduino-Zabbix-Agent?tab=readme-ov-file#materials
 
 ### Anexo B: Capturas de configuración de red en VMware (Bridge)
