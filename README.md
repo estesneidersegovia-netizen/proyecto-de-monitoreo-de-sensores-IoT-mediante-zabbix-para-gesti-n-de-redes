@@ -159,28 +159,40 @@ Obtenido de: https://github.com/interlegis/Arduino-Zabbix-Agent?tab=readme-ov-fi
 
 ### Anexo B: Capturas de configuración de red en VMware (Bridge)
 
-![Acceso al Virtual Network Editor en VMware](./imagenes/vmware-menu-editor.png)  
-![Editor de red virtual: VMnets y NAT/Bridge](./imagenes/vmware-editor-vmnet.png)  
-![VMnet0 en modo Bridge asociado a adaptador físico](./imagenes/vmware-bridge-asix.png)
+![D:\proyectozabbixdiagrama](Configuración de Red VMware)  
+![D:\proyectozabbixdiagrama](redvmare)  
+![D:\proyectozabbixdiagrama](Configuración de Red VMware3)
 
 ### Anexo C: Estado del Host en Zabbix
 
-![Data collection y host listado en Zabbix](./imagenes/zabbix-data-collection.png)  
-![Host configurado en Zabbix](./imagenes/zabbix-host-config.png)
+![D:\proyectozabbixdiagrama](Estado del Host en Zabbix1)  
+![D:\proyectozabbixdiagrama](Estado del Host en Zabbix2)
 
 ### Anexo Ítems
 
-![Ítem: Temperatura del Aire (DHT11)](./imagenes/zabbix-item-dht11.png)  
-![Ítem: Temp. Ambiente (DS18B20)](./imagenes/zabbix-item-ds18b20.png)
+![D:\proyectozabbixdiagrama](Anexo ítems1)  
+![D:\proyectozabbixdiagrama](Anexo ítems2)
+![D:\proyectozabbixdiagrama](Anexo ítems3)
+![D:\proyectozabbixdiagrama](Anexo ítems4)
 
 ### Anexo Trigger
 
-*(Incluir captura si la tienes, por ejemplo: ./imagenes/zabbix-trigger.png)*
+![D:\proyectozabbixdiagrama](Anexo Trigger1)
+![D:\proyectozabbixdiagrama](Anexo Trigger2)
+![D:\proyectozabbixdiagrama](Anexo Trigger3)
+![D:\proyectozabbixdiagrama](Anexo Trigger4)
 
 ### Anexo creación Dashboard
 
-*(Incluir captura si la tienes, por ejemplo: ./imagenes/zabbix-dashboard.png)*
+![D:\proyectozabbixdiagrama](creación Dashboard1)
+![D:\proyectozabbixdiagrama](creación Dashboard2)
+![D:\proyectozabbixdiagrama](creación Dashboard3)
+![D:\proyectozabbixdiagrama](creación Dashboard4)
 
+### Conexiones Fisicas
+![D:\proyectozabbixdiagrama](conexionesfisicas1)
+![D:\proyectozabbixdiagrama](conexionesfisicas2)
+![D:\proyectozabbixdiagrama](conexionesfisicas3)
  
  
 
