@@ -159,40 +159,40 @@ Obtenido de: https://github.com/interlegis/Arduino-Zabbix-Agent?tab=readme-ov-fi
 
 ### Anexo B: Capturas de configuración de red en VMware (Bridge)
 
-![D:\red](ConfiguracióndeRedVMware)  
-![D:\red](redvmare)  
-![D:\red](ConfiguracióndeRedVMware)
+![D:\red](ConfiguracióndeRedVMware.jpg)  
+![D:\red](redvmare.jpg)  
+![D:\red](ConfiguracióndeRedVMware.jpg)
 
 ### Anexo C: Estado del Host en Zabbix
 
-![D:\proyectozabbixdiagrama](Estado del Host en Zabbix1)  
-![D:\proyectozabbixdiagrama](Estado del Host en Zabbix2)
+![D:\proyectozabbixdiagrama](EstadodelHostenZabbix1.jpg)  
+![D:\proyectozabbixdiagrama](EstadodelHostenZabbix2.jpg)
 
 ### Anexo Ítems
 
-![D:\proyectozabbixdiagrama](Anexo ítems1)  
-![D:\proyectozabbixdiagrama](Anexo ítems2)
-![D:\proyectozabbixdiagrama](Anexo ítems3)
-![D:\proyectozabbixdiagrama](Anexo ítems4)
+![D:\proyectozabbixdiagrama](Anexoítems1.jpg)  
+![D:\proyectozabbixdiagrama](Anexoítems2.jpg)
+![D:\proyectozabbixdiagrama](Anexoítems3.jpg)
+![D:\proyectozabbixdiagrama](Anexoítems4.jpg)
 
 ### Anexo Trigger
 
-![D:\proyectozabbixdiagrama](Anexo Trigger1)
-![D:\proyectozabbixdiagrama](Anexo Trigger2)
-![D:\proyectozabbixdiagrama](Anexo Trigger3)
-![D:\proyectozabbixdiagrama](Anexo Trigger4)
+![D:\proyectozabbixdiagrama](AnexoTrigger1.jpg)
+![D:\proyectozabbixdiagrama](AnexoTrigger2.jpg)
+![D:\proyectozabbixdiagrama](AnexoTrigger3.jpg)
+![D:\proyectozabbixdiagrama](AnexoTrigger4.jpg)
 
 ### Anexo creación Dashboard
 
-![D:\proyectozabbixdiagrama](creación Dashboard1)
-![D:\proyectozabbixdiagrama](creación Dashboard2)
-![D:\proyectozabbixdiagrama](creación Dashboard3)
-![D:\proyectozabbixdiagrama](creación Dashboard4)
+![D:\proyectozabbixdiagrama](creaciónDashboard1.jpg)
+![D:\proyectozabbixdiagrama](creaciónDashboard2.jpg)
+![D:\proyectozabbixdiagrama](creaciónDashboard3.jpg)
+![D:\proyectozabbixdiagrama](creaciónDashboard4.jpg)
 
 ### Conexiones Fisicas
-![D:\proyectozabbixdiagrama](conexionesfisicas1)
-![D:\proyectozabbixdiagrama](conexionesfisicas2)
-![D:\proyectozabbixdiagrama](conexionesfisicas3)
+![D:\proyectozabbixdiagrama](conexionesfisicas1.jpg)
+![D:\proyectozabbixdiagrama](conexionesfisicas2.jpg)
+![D:\proyectozabbixdiagrama](conexionesfisicas3.jpg)
  
  
 
