@@ -131,6 +131,7 @@ Documentación Oficial de Zabbix. Recuperado de: https://www.zabbix.com/
 
 Anexos Opcionales
 Anexo A: Diagrama de Conexión de Sensores
+![](Imagen de WhatsApp 2025-11-19 a las 19.29.20_5eb8341a.jpg)
  Obtenido de: https://github.com/interlegis/Arduino-Zabbix-Agent?tab=readme-ov-file#materials
 
 
