@@ -159,9 +159,9 @@ Obtenido de: https://github.com/interlegis/Arduino-Zabbix-Agent?tab=readme-ov-fi
 
 ### Anexo B: Capturas de configuración de red en VMware (Bridge)
 
-![D:\proyectozabbixdiagrama](Configuración de Red VMware)  
+![D:\proyectozabbixdiagrama](ConfiguracióndeRedVMware)  
 ![D:\proyectozabbixdiagrama](redvmare)  
-![D:\proyectozabbixdiagrama](Configuración de Red VMware3)
+![D:\proyectozabbixdiagrama](ConfiguracióndeRedVMware3)
 
 ### Anexo C: Estado del Host en Zabbix
 
